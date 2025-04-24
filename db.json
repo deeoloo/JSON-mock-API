@@ -1,4 +1,12 @@
 {
+  "users": [
+    {
+      "email": "dorineoloo100@gmail.com",
+      "password": "password123",
+      "name": "Dorine Oloocd  ",
+      "id": 1
+    }
+  ],
   "workouts": [
     {
       "id": 1,
